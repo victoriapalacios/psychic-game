@@ -1,0 +1,2 @@
+# psychic-game
+javascript homework
